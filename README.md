@@ -21,20 +21,19 @@ Link -> *[query Create Database](https://github.com/Yakagi17/service-motor-api/b
 
 ###  Request
 A. Path (/api/service)
-   ```
-    1. Method : POST
-        - Operation : Create order(Service Motor)
-    ```
-    ```
-    2. Method : GET
-        - Operation : Get all order(Service Motor)
-    ```
+
+1. Method : POST
+Operation : Create order(Service Motor)
+
+2. Method : GET
+Operation : Get all order(Service Motor)
+
 
 B. Path (/api/service/{id}/update-status)
-    ```
-     3. Method : GET
-        - Operation : Update Status order from spesific id Order(Service Motor)
-    ```
+
+3. Method : GET
+Operation : Update Status order from spesific id Order(Service Motor)
+
 
 
 
