@@ -2,7 +2,7 @@
 
 CREATE DATABASE IF NOT EXISTS service_motor_db;
 
-USE service_motor_dbm;
+USE service_motor_db;
 
 #Tabel Service Motorcycle
 CREATE TABLE IF NOT EXISTS ServiceMotorcycle(
