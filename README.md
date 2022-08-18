@@ -16,7 +16,7 @@
 
 
 ### DDL Script
-Link -> 
+Link -> [query Create Database] (https://github.com/Yakagi17/service-motor-api/blob/main/database/service-motor-api-ddl.sql)
 
 ###  Request
 A. Path (/api/service)
